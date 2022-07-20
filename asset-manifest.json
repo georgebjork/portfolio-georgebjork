@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-georgebjork/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio-georgebjork/static/js/main.70d73f23.js",
+    "main.css": "/portfolio-georgebjork/static/css/main.333bd0bb.css",
+    "main.js": "/portfolio-georgebjork/static/js/main.e2cf3ab3.js",
     "static/js/787.b829be2e.chunk.js": "/portfolio-georgebjork/static/js/787.b829be2e.chunk.js",
-    "static/media/logo.svg": "/portfolio-georgebjork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio-georgebjork/index.html",
-    "main.073c9b0a.css.map": "/portfolio-georgebjork/static/css/main.073c9b0a.css.map",
-    "main.70d73f23.js.map": "/portfolio-georgebjork/static/js/main.70d73f23.js.map",
+    "main.333bd0bb.css.map": "/portfolio-georgebjork/static/css/main.333bd0bb.css.map",
+    "main.e2cf3ab3.js.map": "/portfolio-georgebjork/static/js/main.e2cf3ab3.js.map",
     "787.b829be2e.chunk.js.map": "/portfolio-georgebjork/static/js/787.b829be2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.70d73f23.js"
+    "static/css/main.333bd0bb.css",
+    "static/js/main.e2cf3ab3.js"
   ]
 }
