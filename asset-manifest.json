@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-georgebjork/static/css/main.333bd0bb.css",
-    "main.js": "/portfolio-georgebjork/static/js/main.e24aaa84.js",
+    "main.js": "/portfolio-georgebjork/static/js/main.ed48ed01.js",
     "static/js/787.b829be2e.chunk.js": "/portfolio-georgebjork/static/js/787.b829be2e.chunk.js",
-    "static/media/younglife.jpg": "/portfolio-georgebjork/static/media/younglife.56ac6e23679a5db90ac3.jpg",
     "index.html": "/portfolio-georgebjork/index.html",
     "main.333bd0bb.css.map": "/portfolio-georgebjork/static/css/main.333bd0bb.css.map",
-    "main.e24aaa84.js.map": "/portfolio-georgebjork/static/js/main.e24aaa84.js.map",
+    "main.ed48ed01.js.map": "/portfolio-georgebjork/static/js/main.ed48ed01.js.map",
     "787.b829be2e.chunk.js.map": "/portfolio-georgebjork/static/js/787.b829be2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.333bd0bb.css",
-    "static/js/main.e24aaa84.js"
+    "static/js/main.ed48ed01.js"
   ]
 }
