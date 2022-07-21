@@ -54,28 +54,21 @@ class Home extends Component {
                                     <Carousel.Item>
                                         <img
                                         className="d-block w-100"
-                                        src="./Images/George/younglife.jpg"
+                                        src= "portfolio-georgebjork/Images/George/younglife.jpg"
                                         alt="First slide"
                                         />
                                     </Carousel.Item>
-                                    {/* <Carousel.Item>
-                                        <img
-                                        className="d-block w-100"
-                                        src="./Images/George/george-chambers.png"
-                                        alt="Second slide"
-                                        />
-                                    </Carousel.Item> */}
                                     <Carousel.Item>
                                         <img
                                         className="d-block w-100"
-                                        src="./Images/George/friends.jpg"
+                                        src= "portfolio-georgebjork/Images/George/friends.JPG"
                                         alt="Third slide"
                                         />
                                     </Carousel.Item>
-                                    <Carousel.Item>
+                                    <Carousel.Item> 
                                         <img
                                         className="d-block w-100"
-                                        src="./Images/George/wedding.jpg"
+                                        src= "portfolio-georgebjork/Images/George/wedding.jpg"
                                         alt="Fourth slide"
                                         />
                                     </Carousel.Item>
